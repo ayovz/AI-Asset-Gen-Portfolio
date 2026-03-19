@@ -61,6 +61,7 @@ This section demonstrates the prompt engineering process from first attempt to f
 ```
 A person using a mobile app on their phone.
 ```
+![Generation Version 1](CATEGORY 5 - Iteration Methodology/v1.png)
 
 **Result:** Generic stock photo feel. Overly posed. Unusable for paid ads.
 **Decision:** Rejected — restart with intent.
@@ -72,6 +73,8 @@ A person using a mobile app on their phone.
 Young professional using a mobile banking app, 
 lifestyle photography, natural light, authentic.
 ```
+![Generation Version 2](CATEGORY 5 - Iteration Methodology/v2.png)
+
 **Result:** Improved authenticity but background too busy. 
 Expression still feels staged. Depth of field too deep.
 **Decision:** Rejected — add composition control.
@@ -89,6 +92,8 @@ Expression still feels staged. Depth of field too deep.
   "negative": "no fake poses, no forced smile, no generic office"
 }
 ```
+![Generation Version 3](CATEGORY 5 - Iteration Methodology/v3.png)
+
 **Result:** Authentic feel, good lighting. Composition slightly off-centre.
 Background competing with subject.
 **Decision:** Rejected — add shallow depth of field and mood.
@@ -114,6 +119,8 @@ Background competing with subject.
   "use_case": "mobile app paid social ad, Meta format"
 }
 ```
+![Final Generation Version 4](CATEGORY 5 - Iteration Methodology/v4_final.png)
+
 **Result:** ✅ Usable ad creative. Subject authentic, composition ad-ready,
 negative space available for copy overlay. Approved.
 
