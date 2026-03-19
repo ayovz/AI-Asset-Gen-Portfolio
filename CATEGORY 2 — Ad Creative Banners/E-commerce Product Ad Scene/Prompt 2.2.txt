@@ -1,0 +1,27 @@
+Prompt 2.2 — E-commerce Product Ad Scene
+
+Natural Language:
+Flat lay product scene for a premium skincare brand. Marble surface 
+texture. Three minimalist white product bottles arranged in a triangle 
+composition. Fresh eucalyptus leaves and small white pebbles as props. 
+Soft diffused natural light from the left. Colour palette: white, cream, 
+sage green. Shot from directly above at 90 degrees. Editorial, luxury 
+feel. Leave 30% of the frame empty for text overlay.
+
+JSON:
+json{
+  "prompt": {
+    "shot_type": "flat lay, 90-degree overhead",
+    "subject": "three minimalist white skincare product bottles",
+    "arrangement": "triangle composition",
+    "props": ["fresh eucalyptus leaves", "small white pebbles", "marble surface"],
+    "surface": "white marble texture",
+    "lighting": "soft diffused natural light from left side",
+    "color_palette": ["white", "cream #F5F0E8", "sage green #9CAF88"],
+    "mood": "luxury, clean, editorial, premium beauty",
+    "composition_note": "30% negative space on right side for text overlay",
+    "negative": "no harsh shadows, no clutter, no synthetic-looking props"
+  },
+  "aspect_ratio": "1:1",
+  "style_preset": "photographic"
+}

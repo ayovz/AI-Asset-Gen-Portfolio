@@ -1,0 +1,28 @@
+Prompt 3.1 — Fintech / SaaS Conceptual Illustration
+
+Natural Language:
+Conceptual 3D illustration for a fintech app advertisement. A glowing 
+golden coin floating in the centre, surrounded by abstract flowing 
+data streams rendered as thin luminous lines in teal and white. Dark 
+charcoal background. The coin casts a warm light on surrounding 
+elements. Style: modern tech illustration, similar to Stripe or Wise 
+brand visuals. Depth and dimension. No text.
+
+JSON:
+json{
+  "prompt": {
+    "style": "3D conceptual illustration, fintech brand aesthetic",
+    "subject": "glowing golden coin, central focal point",
+    "surrounding_elements": "abstract data streams as luminous thin lines",
+    "colors": {
+      "coin": "warm gold #FFD700",
+      "data_streams": "teal #00CED1 and white",
+      "background": "dark charcoal #1A1A2E"
+    },
+    "lighting": "coin emits warm glow illuminating surrounding elements",
+    "reference_style": "Stripe, Wise, Revolut brand illustration style",
+    "mood": "premium, trustworthy, modern, innovative",
+    "negative": "no text, no faces, no cartoonish style, no flat 2D"
+  },
+  "aspect_ratio": "1:1"
+}

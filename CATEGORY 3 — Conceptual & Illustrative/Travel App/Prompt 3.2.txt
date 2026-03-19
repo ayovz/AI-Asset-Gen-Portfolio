@@ -1,0 +1,34 @@
+Prompt 3.2 — Hyper-Realistic Environment for Travel App
+
+Natural Language:
+Aerial drone photograph of a pristine tropical beach in Sri Lanka at 
+golden hour. Turquoise water, white sand, lush green palm trees lining 
+the shore. A small traditional wooden fishing boat anchored near the 
+shore. No people. Cinematic colour grade: warm highlights, slightly 
+desaturated shadows. Shot as if from a DJI Mavic at 300 feet altitude. 
+Ultra sharp, professional travel photography.
+
+JSON:
+json{
+  "prompt": {
+    "shot_type": "aerial drone photography, 300 feet altitude",
+    "subject": "pristine tropical beach, Sri Lanka",
+    "time_of_day": "golden hour, 30 minutes before sunset",
+    "elements": [
+      "turquoise ocean water",
+      "white sand beach",
+      "lush green palm trees",
+      "single traditional wooden fishing boat"
+    ],
+    "people": "none",
+    "color_grade": {
+      "highlights": "warm amber",
+      "shadows": "slightly desaturated, cool blue",
+      "style": "cinematic travel photography"
+    },
+    "camera": "DJI Mavic simulation, wide angle",
+    "quality": "ultra sharp, 8K, professional travel editorial",
+    "negative": "no people, no tourists, no text, no watermarks"
+  },
+  "aspect_ratio": "16:9"
+}
