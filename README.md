@@ -9,11 +9,11 @@
 
 ```
 📦 ai-image-video-portfolio
- ┣ 📂 CATEGORY-1_Product-Hero-Shots
- ┣ 📂 CATEGORY-2_Ad-Creative-Banners
- ┣ 📂 CATEGORY-3_Conceptual-Illustrative
- ┣ 📂 CATEGORY-4_AI-Video-Prompts
- ┣ 📂 CATEGORY-5_Iteration Showcase
+ ┣ 📂 CATEGORY 1 - Product Hero Shots
+ ┣ 📂 CATEGORY 2 — Ad Creative Banners
+ ┣ 📂 CATEGORY 3 — Conceptual & Illustrative
+ ┣ 📂 CATEGORY 4 — AI Video Prompts (Google Flow)
+ ┣ 📂 CATEGORY 5 - Iteration Methodology
  ┗ 📄 README.md
 ```
 
@@ -61,7 +61,7 @@ This section demonstrates the prompt engineering process from first attempt to f
 ```
 A person using a mobile app on their phone.
 ```
-![Generation Version 1](CATEGORY 5%20-%20Iteration%20Methodology/v1.png)
+![Generation Version 1](CATEGORY%205%20-%20Iteration%20Methodology/v1.png)
 
 **Result:** Generic stock photo feel. Overly posed. Unusable for paid ads.
 **Decision:** Rejected — restart with intent.
@@ -73,7 +73,7 @@ A person using a mobile app on their phone.
 Young professional using a mobile banking app, 
 lifestyle photography, natural light, authentic.
 ```
-![Generation Version 2](CATEGORY 5 - Iteration Methodology/v2.png)
+![Generation Version 2](CATEGORY%205%20-%20Iteration%20Methodology/v2.png)
 
 **Result:** Improved authenticity but background too busy. 
 Expression still feels staged. Depth of field too deep.
@@ -92,7 +92,7 @@ Expression still feels staged. Depth of field too deep.
   "negative": "no fake poses, no forced smile, no generic office"
 }
 ```
-![Generation Version 3](CATEGORY 5 - Iteration Methodology/v3.png)
+![Generation Version 3](CATEGORY%205%20-%20Iteration%20Methodology/v3.png)
 
 **Result:** Authentic feel, good lighting. Composition slightly off-centre.
 Background competing with subject.
@@ -119,7 +119,7 @@ Background competing with subject.
   "use_case": "mobile app paid social ad, Meta format"
 }
 ```
-![Final Generation Version 4](CATEGORY 5 - Iteration Methodology/v4_final.png)
+![Final Generation Version 4](CATEGORY%205%20-%20Iteration%20Methodology/v4_final.png)
 
 **Result:** ✅ Usable ad creative. Subject authentic, composition ad-ready,
 negative space available for copy overlay. Approved.
