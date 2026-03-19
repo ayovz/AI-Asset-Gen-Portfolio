@@ -61,7 +61,7 @@ This section demonstrates the prompt engineering process from first attempt to f
 ```
 A person using a mobile app on their phone.
 ```
-![Generation Version 1](CATEGORY 5 - Iteration Methodology/v1.png)
+![Generation Version 1](CATEGORY 5%20-%20Iteration%20Methodology/v1.png)
 
 **Result:** Generic stock photo feel. Overly posed. Unusable for paid ads.
 **Decision:** Rejected — restart with intent.
